@@ -10,6 +10,6 @@
 
 |   Mã SV  | Họ và tên               | Nhóm |
 | -------: | ----------------------- | :--: |
-| 23520315 | Tào Minh Đức	           |  13  |
-| 23520538 | Phạm Huy Hoàng	         |  13  |
-| 23520930 | Mai Nguyễn Phúc Minh    |  13  |
+| 23520315 | Tào Minh Đức	           |  4   |
+| 23520538 | Phạm Huy Hoàng	         |  4   |
+| 23520930 | Mai Nguyễn Phúc Minh    |  4   |
